@@ -1,0 +1,4 @@
+[Desktop Entry]
+Type=Application
+Exec=python3 /home/pi/Project/main.py -platform wayland
+Name=Ads
